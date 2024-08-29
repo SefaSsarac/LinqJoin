@@ -5,6 +5,7 @@ This project is a simple Library Management System built using C#. It demonstrat
 --Project Overview--
 
 The system consists of two classes that represent the structure of a basic library:
+
 -Authors Table: Contains information about authors, including a unique Author ID and the author's name.
 
 -Books Table: Contains details about books, including a unique Book ID, book title, and the associated Author ID, linking it to the corresponding author.
