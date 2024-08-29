@@ -1,0 +1,14 @@
+D:\Yazılım\Repository\LinqJoin\LinqJoin\bin\Debug\net8.0\LinqJoin.exe
+D:\Yazılım\Repository\LinqJoin\LinqJoin\bin\Debug\net8.0\LinqJoin.deps.json
+D:\Yazılım\Repository\LinqJoin\LinqJoin\bin\Debug\net8.0\LinqJoin.runtimeconfig.json
+D:\Yazılım\Repository\LinqJoin\LinqJoin\bin\Debug\net8.0\LinqJoin.dll
+D:\Yazılım\Repository\LinqJoin\LinqJoin\bin\Debug\net8.0\LinqJoin.pdb
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.AssemblyInfoInputs.cache
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.AssemblyInfo.cs
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.csproj.CoreCompileInputs.cache
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.dll
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\refint\LinqJoin.dll
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.pdb
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\LinqJoin.genruntimeconfig.cache
+D:\Yazılım\Repository\LinqJoin\LinqJoin\obj\Debug\net8.0\ref\LinqJoin.dll
