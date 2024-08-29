@@ -12,6 +12,7 @@ A LINQ query is used to join these tables, providing a combined view of books an
 Join operation between two related tables using LINQ.
 Sample data creation for authors and books.
 Display of each book title alongside its corresponding author.
+
 --Technologies Used--
 C#: Core programming language used to develop the system.
 .NET Core: Provides the runtime environment for C# applications.
